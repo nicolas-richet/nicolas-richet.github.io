@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student at ETS (ILLS) & Paris-Saclay University (LMF, ENS Paris-Saclay)</a>. Contact: name.surname.1@ens.etsmtl.ca.
+subtitle: <a href='#'>PhD Student at ETS (ILLS) & Paris-Saclay University (LMF, ENS Paris-Saclay)</a>. Contact name.surname.1@ens.etsmtl.ca.
 
 profile:
   align: right
