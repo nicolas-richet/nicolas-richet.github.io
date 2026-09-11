@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Laboratoire Méthodes Formelles (LMF), ENS Paris-Saclay</p>
     <p>4 avenue des Sciences, 91190 Gif-sur-Yvette</p>
-    <p>Your City, State 12345</p>
+    <p>France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
