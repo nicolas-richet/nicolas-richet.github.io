@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 I am currently a PhD Student at Université Paris-Saclay & Ecole de Techonologie Supérieure (ETS), co-supervised by Alain Finkel & Eric Granger. I am currently staying at Laboratoire Méthodes Formelle (LMF), ENS Paris-Saclay.
+
+My research lies at the intersection of vision-language models and human behaviour understanding. I am particularly interested in how large multimodal models such as CLIP and MLLMs can be adapted to recognize human behaviour (Emotions, Ambivalence, Stress and more) and in test-time adaptation methods that allow these models to handle distribution shifts without retraining. More broadly, I care about making vision-language models robust and reliable when deployed on real-world, human-centered data.
