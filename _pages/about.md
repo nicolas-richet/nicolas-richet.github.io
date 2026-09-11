@@ -6,7 +6,7 @@ subtitle: <a href='#'>PhD Student at ETS (ILLS) & Paris-Saclay University (LMF, 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Laboratoire Méthodes Formelles (LMF), ENS Paris-Saclay</p>
